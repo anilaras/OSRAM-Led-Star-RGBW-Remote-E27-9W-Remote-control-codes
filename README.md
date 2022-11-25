@@ -1,6 +1,6 @@
 #  OSRAM Led Star+ RGBW Remote E27 9W
 IR Remote control codes for various project
-![enter image description here](https://dammedia.ledvance.info/media/resource/450x450/asset-1783720/LED-ST-PLUS-REM-CLA-60-9W-827-FR-E27-MiCh-Front.jpg)
+![enter image description here](https://raw.githubusercontent.com/anilaras/OSRAM-Led-Star-RGBW-Remote-E27-9W-Remote-control-codes/master/osram.webp)
 ## REMOTE
 ![REMORTE](https://images.obi.sk/product/DE/1500x1500/250666_3.jpg)
 
